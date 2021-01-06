@@ -5,6 +5,10 @@
 *
 * Copyright (C) 2020 Hakim El Hattab, https://hakim.se
 */
+img{  
+  box-shadow: 2px 2px 2px 12px #babab8;
+  
+}
 .part-3, .p {
   width: 50%;
   font-size: 24px;
